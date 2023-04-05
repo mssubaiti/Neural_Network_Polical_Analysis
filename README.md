@@ -1,1 +1,1 @@
-# Neural_Network_Polical_Analysis
+# Neural_Network_Political_Analysis
